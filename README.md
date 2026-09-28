@@ -20,7 +20,8 @@ This project contains my Database Assignment 2 completed as part of my Security 
 * MYSQL workbench
 * Draw.io
 * Microsoft Word
-Hardware : 
+
+## Hardware : 
 * Home Computer
 
 ## Project Contents
